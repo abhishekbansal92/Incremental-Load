@@ -1,0 +1,9 @@
+{
+	"name": "medallion-adf-ab",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3faff002-0930-41f6-9632-da25ddcb6116",
+		"tenantId": "4654845e-8c3f-4c04-baa1-5a983247631b"
+	}
+}
